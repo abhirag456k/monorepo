@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <header style={{ backgroundColor: '#007bff', padding: '10px', color: 'white' }
         }>
-            <h1>Company Portal</h1>
+            <h1>Company Portal test data</h1>
         </header>
     );
 };
