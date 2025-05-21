@@ -1,0 +1,14 @@
+// shared/base-theme/base-theme.scss
+
+@import './variables';
+
+// You can add global styles here, e.g.
+body {
+    font-family: $font-family-base;
+    font-size: $font-size-base;
+    line-height: $line-height-base;
+    color: $color-dark;
+    background-color: $color-light;
+    margin: 0;
+    padding: 0;
+}
