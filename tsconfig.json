@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@shared/*": [
+                "shared/*"
+            ]
+        },
+        "typeRoots": [
+            "./node_modules/@types"
+        ],
+        "types": [
+            "vite/client",
+            "node"
+        ]
+    }
+}
