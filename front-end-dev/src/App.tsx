@@ -9,7 +9,7 @@ function App() {
     <>
       <div>
         <Header />
-        <h1>Welcome</h1>
+        <h1>Welcome to DCS</h1>
       </div>
     </>
   )
